@@ -1,0 +1,16 @@
+* {
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+
+}
+
+a:link, a:visited {
+  color: Aquamarine;
+  font-size: 16px;
+}
